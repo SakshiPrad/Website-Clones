@@ -1,0 +1,18 @@
+.wishListContainer{
+    margin-top: 80px;
+}
+.remove-from-wishList{
+    border: none;
+    background-color: transparent;
+}
+
+.remove-from-wishList i{
+    font-size: x-large;
+    font-weight:normal;
+}
+
+.no-item{
+    text-align: center;
+    font-size: xx-large;
+    margin-top: 150px;
+}
